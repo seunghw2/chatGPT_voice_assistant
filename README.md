@@ -194,3 +194,9 @@ ASR과 TTS를 이용하여 텍스트를 작성하고 읽는 과정 없이 음성
 **Papago 언어** **번역** **API**
 
 **https://developers.naver.com/products/papago/nmt/nmt.md**
+
+# **블로그 주소**
+
+**TISTORY**
+
+**[https://sseung.tistory.com/15](https://sseung.tistory.com/15)**
